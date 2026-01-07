@@ -1,80 +1,32 @@
 {
   "version": 1,
-  "base_track": "僕の心をつくってよ",
-  "base_artist": "Ken Hirai",
-  "createdAt": "2025-12-13T13:04:20.267544Z",
+  "base_track": "夜に咲く",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-01-07T01:20:18.651292Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "僕の心をつくってよ",
-      "artist": "平井 堅",
+      "title": "夜に咲く",
+      "artist": "Hoshimachi Suisei",
       "has_synced": true,
-      "path": "select/01_僕の心をつくってよ_平井_堅.lrc"
+      "path": "select/01_夜に咲く_Hoshimachi_Suisei.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "僕の心をつくってよ",
-      "artist": "平井堅",
+      "title": "夜に咲く - Bloom in the night",
+      "artist": "Hoshimachi Suisei",
       "has_synced": true,
-      "path": "select/02_僕の心をつくってよ_平井堅.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "僕の心をつくってよ",
-      "artist": "平井堅",
-      "has_synced": true,
-      "path": "select/03_僕の心をつくってよ_平井堅.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "僕の心をつくってよ",
-      "artist": "Ken Hirai",
-      "has_synced": true,
-      "path": "select/04_僕の心をつくってよ_Ken_Hirai.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "僕の心をつくってよ - Bokunokokorowo Tsukutteyo",
-      "artist": "Ken Hirai",
-      "has_synced": true,
-      "path": "select/05_僕の心をつくってよ_-_Bokunokokorowo_Tsukutteyo_Ken_Hirai.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "僕の心をつくってよ",
-      "artist": "Ken Hirai",
-      "has_synced": true,
-      "path": "select/06_僕の心をつくってよ_Ken_Hirai.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "僕の心をつくってよ",
-      "artist": "平井堅",
-      "has_synced": true,
-      "path": "select/07_僕の心をつくってよ_平井堅.lrc"
+      "path": "select/02_夜に咲く_-_Bloom_in_the_night_Hoshimachi_Suisei.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "僕の心をつくってよ",
-      "artist": "平井 堅",
+      "title": "夜に咲く",
+      "artist": "星街すいせい",
       "has_synced": false,
-      "path": "select/pl_01_僕の心をつくってよ_平井_堅.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "僕の心をつくってよ",
-      "artist": "平井 堅",
-      "has_synced": false,
-      "path": "select/pl_02_僕の心をつくってよ_平井_堅.txt"
+      "path": "select/pl_01_夜に咲く_星街すいせい.txt"
     }
   ]
 }
